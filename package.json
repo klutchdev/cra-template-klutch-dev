@@ -14,7 +14,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/klutchdev/cra-template-klutch-dev.git",
-    "directory": "packages/cra-template"
+    "directory": "packages/cra-template-klutch-dev"
   },
   "bugs": {
     "url": "https://github.com/klutchdev/cra-template-klutch-dev/issues.git"
