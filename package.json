@@ -1,13 +1,36 @@
 {
   "name": "cra-template-klutch-dev",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "klutch",
+    "firebase",
+    "hooks",
+    "pwa"
+  ],
+  "description": "KlutchDEV create-react-app with firebase, custom hooks, and PWA ",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klutchdev/cra-template-klutch-dev.git",
+    "directory": "packages/cra-template"
+  },
+  "bugs": {
+    "url": "https://github.com/klutchdev/cra-template-klutch-dev/issues.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
@@ -34,5 +57,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
