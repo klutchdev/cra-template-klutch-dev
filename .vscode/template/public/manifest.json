@@ -1,6 +1,6 @@
 {
-  "short_name": "KlutchDEV CRA",
-  "name": "KlutchDEV CRA",
+  "short_name": "KlutchDEV Firebase CRA",
+  "name": "KlutchDEV Firebase CRA",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#333333",
+  "theme_color": "#FFCA28",
   "background_color": "#333333"
 }

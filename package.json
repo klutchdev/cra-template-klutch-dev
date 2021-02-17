@@ -1,11 +1,14 @@
 {
   "name": "cra-template-klutch-dev",
-  "version": "1.1.1",
+  "version": "2.1.1",
   "keywords": [
     "react",
     "create-react-app",
     "klutch",
+    "klutchDev",
+    "klutch-development",
     "firebase",
+    "firestore",
     "hooks",
     "pwa"
   ],
@@ -35,6 +38,7 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
