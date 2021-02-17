@@ -1,5 +1,9 @@
 # KlutchDev CRA
 
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+
 ## Usage
 
 ### npx
@@ -7,18 +11,27 @@
 ```sh
 npx create-react-app my-app --template klutch-dev
 ```
+### npm commands
+
+```sh
+# Starts the development server
+npm start
+
+# Builds a production ready app in the build folder
+npm run build
+```
 
 ## Includes
-
 - [firebase][firebase]
 - [react-firebase-hooks][react-firebase-hooks]
 - [react-router-dom][react-router-dom]
 - [google-workbox][google-workbox]
 - [prettier][prettier]
 
-## License
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Klutchdev/cra-template-klutch-dev/graphs/commit-activity)
 
-Licensed under the MIT license.
+## License
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
@@ -32,4 +45,4 @@ Licensed under the MIT license.
 [prettier]: https://prettier.io/docs/en/index.html
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
 [google-workbox]: https://developers.google.com/web/tools/workbox
-<!-- prettier-ignore-end -->
+[forthebadge]: https://forthebadge.com/images/badges/powered-by-netflix.svg
