@@ -32,9 +32,7 @@ npm run build
 - [google-workbox][google-workbox]
 - [prettier][prettier]
 
-## License
-
-[![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](www.npmjs.com/package/cra-template-klutch-dev)
 
@@ -51,3 +49,4 @@ npm run build
 [prettier]: https://prettier.io/docs/en/index.html
 [react-firebase-hooks]: https://github.com/CSFrequency/react-firebase-hooks
 [google-workbox]: https://developers.google.com/web/tools/workbox
+[forthebadge]: https://forthebadge.com/images/badges/powered-by-netflix.svg
