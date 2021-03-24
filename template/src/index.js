@@ -5,14 +5,7 @@ import App from './App';
 // import reportWebVitals from './reportWebVitals';
 // import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
-ReactDOM.render(
-  <>
-    {/* ContextProvider */}
-    <App />
-    {/* ContextProvider */}
-  </>,
-  document.getElementById('root')
-);
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // reportWebVitals(console.log);
 // serviceWorkerRegistration.register();

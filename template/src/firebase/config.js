@@ -1,5 +1,3 @@
-// Firebase project credentials //
-
 // const firebaseConfig = {
 //   apiKey: '',
 //   authDomain: '',

@@ -1,8 +1,5 @@
 // import { auth } from './index';
 
-// export const currentUser = auth.currentUser;
-// export const photoURL = currentUser.photoURL;
-// export const displayName = currentUser.displayName;
 
 // // Google sign up
 // const provider = new auth.GoogleAuthProvider();
@@ -51,9 +48,3 @@
 //     .catch(error => console.log(error));
 // };
 
-// export const updateProfileData = async newName => {
-//   await currentUser
-//     .updateProfile({ displayName: newName })
-//     .then(() => console.info(`New data: ${displayName}`))
-//     .catch(error => console.log(error));
-// };

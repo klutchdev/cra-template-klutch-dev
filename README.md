@@ -29,9 +29,9 @@ npm run build
 ## Includes
 
 - [firebase][firebase]
+- [react-firebase-hooks][react-firebase-hooks]
 - [react-router-dom][react-router-dom]
 - [google-workbox][google-workbox]
-- [prettier][prettier]
 
 [![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
